@@ -29,11 +29,11 @@ function Navbar() {
           <Image 
             src="/logo.svg" 
             alt="SPACEZ Logo" 
-            width={24} 
-            height={24}
-            className="h-6 w-6"
+            width={32} 
+            height={32}
+            className="h-32 w-32"
           />
-          <span className="text-xl font-serif text-[#8B4513]">SPACEZ</span>
+         
         </div>
 
         {/* Hamburger Menu */}
